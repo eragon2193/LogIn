@@ -9,6 +9,6 @@ document.getElementsByClassName('submit').addEventListener('click', function(){
     alert('log in')
   }
     else {
-      alert('make sure password matches')
+      alert('make sure password match')
     } 
 })})
